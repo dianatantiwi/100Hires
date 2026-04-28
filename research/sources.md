@@ -9,7 +9,7 @@ for any modern marketing role.
 ## Expert Sources
 
 ### 1. Nathan Gotch
-- **Role:** Founder of Gotch SEO & Rankability (AI SEO software)
+- **Role:** Founder & CEO of Rankability & Search OS
 - **Why:** Runs real SEO campaigns, built a 7-figure agency, 
   actively practices what he teaches
 - **LinkedIn:** https://www.linkedin.com/in/nathangotch/
@@ -23,14 +23,14 @@ for any modern marketing role.
 - **YouTube:** https://www.youtube.com/@RossSimmondsTV
 
 ### 3. Lily Ray
-- **Role:** VP of SEO Strategy at Amsive
+- **Role:** Founder of Algorythmic
 - **Why:** Leading researcher on E-E-A-T and AI content quality, 
   active agency practitioner
 - **LinkedIn:** https://www.linkedin.com/in/lily-ray-44755615/
 - **YouTube:** https://www.youtube.com/@lilyray
 
 ### 4. Aleyda Solís
-- **Role:** Founder of Orainti SEO Consultancy
+- **Role:** Founder of Orainti & SEOFOMO, Co-founder of Finchling
 - **Why:** Award-winning international SEO consultant, runs 
   SEOFOMO newsletter, active practitioner
 - **LinkedIn:** https://www.linkedin.com/in/aleyda/
