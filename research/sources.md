@@ -73,12 +73,14 @@ for any modern marketing role.
 - **LinkedIn:** https://www.linkedin.com/in/marie-haynes/
 - **YouTube:** https://www.youtube.com/@Marie_Haynes
 
-### 9. Cindy Krum
-- **Role:** Founder of MobileMoxie
-- **Why:** Pioneer of entity-based and mobile-first SEO, 
-  runs real agency with clients
-- **Last Checked:** April 28, 2026
-- **LinkedIn:** https://www.linkedin.com/in/cindykrum/
+### 9. Mark Williams-Cook
+- **Role:** Director at Candour & Founder of AlsoAsked
+- **Why:** 20+ years of SEO experience, built real tools used 
+  by thousands of SEOs, active agency practitioner, keynote 
+  speaker at major SEO conferences
+- **Last Checked:** April 29, 2026
+- **LinkedIn:** https://www.linkedin.com/in/markseo/
+- **YouTube:** https://www.youtube.com/@candouragency
 
 ### 10. Dixon Jones
 - **Role:** Founder of InLinks & Waikay (entity SEO platforms)
