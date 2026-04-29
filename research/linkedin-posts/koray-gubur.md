@@ -61,6 +61,11 @@ To learn more: https://lnkd.in/dp8mGy8E
 showing the new Branded/Non-Branded query filter feature with 
 343K total clicks and 75.7M impressions visible.
 
+**Relevance Note:** Understanding how Google classifies queries 
+is essential for AI-powered SEO content production — it helps 
+determine what content to create and how to structure it for 
+both traditional and AI search.
+
 ## Post 2
 **Date:** March 29, 2026
 **Likes:** 262
