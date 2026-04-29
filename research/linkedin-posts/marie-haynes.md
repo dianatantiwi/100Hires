@@ -1,42 +1,57 @@
 # Marie Haynes — LinkedIn Posts
 
 ## Post 1
-**Date:** April 8, 2026
-**Likes:** 26
-**Comments:** 3
-**Reposts:** 2
+**Date:** April 22, 2026
+**Likes:** 16
+**Comments:** 0
+**Reposts:** 1
 **Content:**
-Here's what I learned from Sundar Pichai's latest interview:
+This week we saw so many things get set up as we transition to a 
+new era of the web - the agentic web.
 
--Search is going to change so it's less about getting information 
-and more about having agents do things for you.
+I did something different with my newsletter this week. I asked 
+Gemini to look at the transcripts from my client calls and Search 
+Bar meetings and pull out the actionable topics I have been 
+discussing. Then I used those to write a completely new kind of 
+newsletter.
 
--Google uses Antigravity internally. They call it "Jet Ski". The 
-Search team just started using it last week.
+If you don't have time to read the full blog post, here are the 
+important things to know:
 
--AI was the missing ingredient for many robotics ideas conceived 
-10-15 years ago. Expect big things here, including drone delivery 
-from Wing.
+→Search is becoming an "Agentic Manager": Search engines are 
+shifting from simply providing information to utilizing agents 
+that actually get things done. If your search clicks are dropping, 
+it's not likely because of bad SEO. It's probably because AI Mode 
+and AI Overviews answering questions directly.
 
--Agentic systems like OpenClaw are the future. Sundar says probably 
-0.1% of the world is already living in this future. And just as I 
-type this Google DeepMind tweeted out instructions to run OpenClaw 
-with Gemma4 locally on your machine.
+→Gemini in Chrome is transforming workflows: Deep browser 
+integration now allows users to converse with AI across multiple 
+open tabs. Skills let you save and reuse prompts to automate 
+repetitive tasks directly in your browser.
 
--AI is going to improve dramatically in 2027. Sundar hinted at big 
-improvements coming in post training, perhaps agentic self 
-improvement? We will see!
+→Google's Antigravity is a massive leap forward: This powerful 
+agent manager is proving incredibly effective for building apps 
+and workflows through simple, conversational prompts. This is not 
+a popular opinion, but I like it better than Claude Code and 
+ChatGPT Codex.
 
-My blog post with full quotes on all of the above:
-https://lnkd.in/e7CYNhnq
+→UCP and WebMCP offer a competitive edge: Universal Commerce 
+Protocol (UCP) and WebMCP allow AI agents to natively interact 
+with your website's tools and eCommerce functions. Implementing 
+these early will likely give sites a massive advantage as agentic 
+search becomes the norm.
 
-And here's the interview if you want to watch the full thing. 
-I'd recommend it!
-https://lnkd.in/eq4SCuv9
+→Website management is becoming AI-driven: The way we build and 
+optimize sites is fundamentally changing. With new AI-native tools 
+(like EmDash and Shopify's AI toolkit) and concepts like Andrej 
+Karpathy's autoresearch, we are moving toward an era where agents 
+can continually test, learn, and improve websites autonomously.
 
-**Note:** Post linked to Marie's blog post "What I learned about 
-the future of Search and AI from Sundar Pichai's latest interview" 
-on mariehaynes.com
+Read the full post here:
+https://lnkd.in/eQTMMScY
+
+**Note:** Post linked to "The Agentic Web is Here: 5 AI Shifts 
+I'm Discussing with Clients about AI Search" on mariehaynes.com
 
 ## Post 2
 **Date:** March 29, 2026

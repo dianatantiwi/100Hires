@@ -1,27 +1,26 @@
 # Rand Fishkin — LinkedIn Posts
 
 ## Post 1
-**Date:** April 22, 2026
-**Likes:** 510
-**Comments:** 79
-**Reposts:** 66
+**Date:** April 8, 2026
+**Likes:** 174
+**Comments:** 45
+**Reposts:** 3
 **Content:**
-Not every business can survive the Zero-Click era. That's not my 
-opinion; it's reality. If your web strategy centers on driving 
-traffic > earning awareness/trust/intent-to-act, you're in deep 
-trouble.
+NEW Search keyword data in SparkToro!
 
-Cyrus S. did some relevant research that you shouldn't miss, 
-regardless of whether you care about SEO 👇
+An upgraded, more relevant, high quality list of terms + phrases 
+your audience searches for is now available in the app, replacing 
+our old, more comprehensive (but lower relevance) lists. It joins 
+the new AI prompt data to help make audience research for search 
++ AI tool usage (broadly and specific) visible to everyone.
 
-**Note:** Post included a 3:17 video thumbnail showing Rand 
-presenting research by Cyrus S. titled "Website Features Associated 
-With Year-Over-Year Traffic Change" comparing Winners vs Losers:
-- Offers Product or Service: Winners 70.2%, Losers 34.6%
-- Allows Task Completion: Winners higher
-- Proprietary Assets: Winners higher
-- Tight Topical Focus: slight winner advantage
-- Strong Brand: slight winner advantage
+Because Google and ChatGPT shouldn't be the only ones who get 
+to know 🤫
+
+**Note:** Post included a 2:36 video showing SparkToro's new 
+AI Mode keyword research feature, demonstrating how to find 
+what keywords a specific audience (wellness-focused travelers, 
+women 35-50, $150K+ income) searches for in Google AI Mode.
 
 ## Post 2
 **Date:** March 29, 2026

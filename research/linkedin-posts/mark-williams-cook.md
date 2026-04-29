@@ -1,38 +1,32 @@
 # Mark Williams-Cook — LinkedIn Posts
 
 ## Post 1
-**Date:** April 25, 2026
-**Likes:** 228
-**Comments:** 24
-**Reposts:** 9
+**Date:** April 23, 2026
+**Likes:** 29
+**Comments:** 1
+**Reposts:** 7
 **Content:**
-Unsolicited #SEO tip: - These are PAA questions about Doc. Martins 
-and I was asked "how would I structure a content piece with these 
-questions?" ⬇
+[Reposted from Birdeye]
 
-I want to highlight that you should think about the questions you 
-can get from AlsoAsked (and PAAs) as *intent* rather than 'keywords 
-you need to write for'.
+Google took ranking power away from webmasters. AI search is 
+taking even more of it.
 
-❌ In this case, I would not be creating an article listing these 
-questions
+First it was your copy. Then your backlinks.
 
-✅ What I would be doing is talking to the product and social teams, 
-and asking them; "Do we have women models over 40 on our product 
-pages? Are they highlighted on our socials?" These are multi-modal 
-ways to communicate "we are for you, you belong".
+Now it's every conversation happening about your brand online 
+and you can't manufacture any of it.
 
-✅ Doc Martens is involved in Pride, people want to know this. Is it 
-clearly signposted on their site (they have some news articles). Is 
-it present in their 'About' type pages?
+Mark Williams-Cook breaks down what this shift actually means 
+for your strategy. Watch the full session on demand! Link in 
+the comments.
 
-Don't approach intent in a 1-dimensional way 🐱
+🎙: AI's Impact on SEO and Brand Perception in 2026
 
-**Note:** Post included a "People Also Ask" screenshot showing 
-3 PAA questions for Doc Martens:
-- Can a 40 year old woman wear Dr. Martens?
-- Do Doc Martens support LGBTQ?
-- Are Doc Martens not cool anymore?
+#AISearch #LocalSEO #Google #DigitalStrategy #BusinessGrowth
+
+**Note:** Post included a video of Mark Williams-Cook speaking 
+at a Candour event about AI's impact on SEO and brand perception 
+in 2026.
 
 ## Post 2
 **Date:** April 20, 2026
