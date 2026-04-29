@@ -12,7 +12,7 @@ for any modern marketing role.
 - **Role:** Founder & CEO of Rankability & Search OS
 - **Why:** Runs real SEO campaigns, built a 7-figure agency, 
   actively practices what he teaches
-- **Last Checked:** April 28, 2025
+- **Last Checked:** April 28, 2026
 - **LinkedIn:** https://www.linkedin.com/in/nathangotch/
 - **YouTube:** https://www.youtube.com/@NathanGotch
 
@@ -20,7 +20,7 @@ for any modern marketing role.
 - **Role:** Founder of Foundation Marketing & Distribution.ai
 - **Why:** Runs a real B2B SaaS content agency, clients include 
   Canva, Snowflake, Unbounce
-- **Last Checked:** April 28, 2025
+- **Last Checked:** April 28, 2026
 - **LinkedIn:** https://www.linkedin.com/in/rosssimmonds/
 - **YouTube:** https://www.youtube.com/@RossSimmondsTV
 
@@ -28,7 +28,7 @@ for any modern marketing role.
 - **Role:** Founder of Algorythmic
 - **Why:** Leading researcher on E-E-A-T and AI content quality, 
   active agency practitioner
-- **Last Checked:** April 28, 2025
+- **Last Checked:** April 28, 2026
 - **LinkedIn:** https://www.linkedin.com/in/lily-ray-44755615/
 - **YouTube:** https://www.youtube.com/@lilyray
 
@@ -36,7 +36,7 @@ for any modern marketing role.
 - **Role:** Founder of Orainti & SEOFOMO, Co-founder of Finchling
 - **Why:** Award-winning international SEO consultant, runs 
   SEOFOMO newsletter, active practitioner
-- **Last Checked:** April 28, 2025
+- **Last Checked:** April 28, 2026
 - **LinkedIn:** https://www.linkedin.com/in/aleyda/
 - **YouTube:** https://www.youtube.com/@aleydasolis
 
@@ -44,7 +44,7 @@ for any modern marketing role.
 - **Role:** CEO of Graphite (GEO agency for SaaS companies)
 - **Why:** Pioneer of Generative Engine Optimization (GEO) 
   frameworks, runs real SaaS client campaigns
-- **Last Checked:** April 28, 2025
+- **Last Checked:** April 28, 2026
 - **LinkedIn:** https://www.linkedin.com/in/ethanls/
 - **YouTube:** https://www.youtube.com/@GraphiteSEO
 
@@ -53,7 +53,7 @@ for any modern marketing role.
 - **Why:** Serial entrepreneur who built multiple real companies, 
   wrote a book on startup reality (Lost & Founder), deep practitioner
   in AI search behavior and audience research
-- **Last Checked:** April 28, 2025
+- **Last Checked:** April 28, 2026
 - **LinkedIn:** https://www.linkedin.com/in/randfishkin/
 - **YouTube:** https://www.youtube.com/@randfish
 
@@ -61,7 +61,7 @@ for any modern marketing role.
 - **Role:** Founder of Holistic SEO agency
 - **Why:** Known for deep technical AI SEO case studies with 
   real client results
-- **Last Checked:** April 28, 2025
+- **Last Checked:** April 28, 2026
 - **LinkedIn:** https://www.linkedin.com/in/koray-tugberk-gubur/?locale=en
 - **YouTube:** https://www.youtube.com/@TopicalAuthority
 
@@ -69,7 +69,7 @@ for any modern marketing role.
 - **Role:** Founder of Marie Haynes Consulting
 - **Why:** Specialist in Google quality guidelines and AI content 
   evaluation, active consultant
-- **Last Checked:** April 28, 2025
+- **Last Checked:** April 28, 2026
 - **LinkedIn:** https://www.linkedin.com/in/marie-haynes/
 - **YouTube:** https://www.youtube.com/@Marie_Haynes
 
@@ -77,13 +77,13 @@ for any modern marketing role.
 - **Role:** Founder of MobileMoxie
 - **Why:** Pioneer of entity-based and mobile-first SEO, 
   runs real agency with clients
-- **Last Checked:** April 28, 2025
+- **Last Checked:** April 28, 2026
 - **LinkedIn:** https://www.linkedin.com/in/cindykrum/
 
 ### 10. Dixon Jones
 - **Role:** Founder of InLinks & Waikay (entity SEO platforms)
 - **Why:** Actually built an AI SEO tool used by real businesses, 
   not just a writer
-- **Last Checked:** April 28, 2025
+- **Last Checked:** April 28, 2026
 - **LinkedIn:** https://www.linkedin.com/in/dixonjones/
 - **YouTube:** https://www.youtube.com/c/DixonJonesDotCom
